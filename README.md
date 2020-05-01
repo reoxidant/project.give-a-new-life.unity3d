@@ -1,2 +1,2 @@
-# project.give-a-new-life.unity3d
-Only Ru Language
+# Give me a new line, the quest text game / Дайте мне новую жизнь - Текстовая квест игра.
+Only Ru Language / Только на русском
